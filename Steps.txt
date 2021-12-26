@@ -1,0 +1,29 @@
+Step 1:
+Go to metamask.io and add chrome extension
+
+Step 2:
+Create a wallet on metamask
+
+Step 3:
+Choose Ropsten Test Network and request ether
+
+Step 4:
+Create a new folder and create file index.html in it and add the contents present in this repo
+
+Step 5:
+Go to remix.ethereum.org and create a file smart_contract.sol. Add the contents present in this repo file
+
+Step 6:
+Choose the compiler version as 6.6 and compile it
+
+Step 7:
+Go to deploy option and choose Injected Web3. Deploy the code.
+
+Step 8: 
+Copy the abi and transaction id, paste in index.html.
+
+Step 9: 
+Download the node modules (extract .zip file) in the same folder where index.html is there.
+
+Step 10:
+Go to cmd and change directory to present folder. Type http-server and go to localhost:8080.
